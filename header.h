@@ -1,0 +1,28 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 5 Solution
+ *  Copyright 2021 Rebecca Pina Partidas
+ */
+
+
+#include<iostream>
+#include<iomanip>
+#include<fstream>
+#include<sstream>
+#include<cmath>
+#include<cstdlib>
+#include<string>
+#include<list>
+#include <forward_list>
+#include<vector>
+#include<unordered_map>
+#include<algorithm>
+#include <array>
+#include <regex>
+#include<random>
+#include<stdexcept>
+
+using namespace std;
+
+int add(int a, int b);
+
+int addConst(const int a, const int b);
